@@ -1,3 +1,4 @@
 Flask
 mysql-connector
 simplejson
+flask-sqlalchemy==2.3.0
